@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktest_swc"]=self["webpackChunktest_swc"]||[]).push([[677],{7677:function(e,n,t){t.r(n),t.d(n,{default:function(){return a}});var r=t(6768);function u(e,n){return(0,r.uX)(),(0,r.CE)("h3",null,"Profile")}var s=t(1241);const c={},f=(0,s.A)(c,[["render",u]]);var a=f}}]);
+//# sourceMappingURL=677.3b2505ba.js.map
